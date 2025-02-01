@@ -3,7 +3,7 @@
             <div class='swiper-stars'></div>
             <p class='swiper-comment-description'>${e.description}</p>
             <div class='person-data'>
-                <img src='/src/imgs/icons/person.svg' style='height: 100%;' alt='Person'>
+                <img src='/repair/src/imgs/icons/person.svg' style='height: 100%;' alt='Person'>
                 <div>
                     <p class='swiper-name'>${e.name}</p>
                     <p class='swiper-role'>${e.role}</p>
